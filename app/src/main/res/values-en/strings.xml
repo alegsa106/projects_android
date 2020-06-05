@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calcular</string>
+    <string name="info_label">Choose the operation that you want realize with teh two numbers</string>
+    <string name="suma">Addition</string>
+    <string name="resta">Subtraction</string>
+    <string name="multiplicacion">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="operator_symbol" translatable="false">+</string>
+    <string name="equals_symbol" translatable="false">=</string>
+    <string name="result_text" translatable="false">z</string>
+    <string name="operar">Calculate</string>
+    <string name="valueX" translatable="false">x</string>
+    <string name="valuey" translatable="false">y</string>
+</resources>
